@@ -1,0 +1,108 @@
+.list-books-items {
+	
+	border: 0;
+	margin: 1%;
+	padding: 1%;
+}
+
+.div-header {
+	background-color: #0030FF;
+    	width: 100%;
+	color: #FFF;
+	padding-left: 2%;
+	padding-right: 2%;
+	max-width: 1600px;
+	}
+body {
+	margin: 0%;
+}
+
+h1, h2, h3, h4, h5, h6, .base, .font-s, .font-xs, span, a, p, .btn, label, small, div {
+	font-family: "sans-serif", Poppins;
+}
+
+.company-title {
+ 	width: 30%
+}
+
+.nav-link {
+	color: #FFF;
+}
+
+.body-div {
+
+}
+
+.book-title {
+	padding-top: 5%;
+}
+
+.book-author {
+	font-size: 12px;
+}
+
+.card-img-top {
+	height: 40vh;
+}
+
+.btn-add-to-cart:hover i {
+	display: none;
+}
+
+.btn-add-to-cart:hover:before {
+	content: "Add to Cart";
+}
+
+.email-login, .password-login {
+	margin-bottom: 10px;
+}
+
+.label-name {
+	font-size: 14px;
+}
+
+.form-group {
+	margin-top: 10px;
+}
+
+.sign-up-div {
+	margin: 6%;
+}
+
+.card-sign-up {
+	padding: 2%;
+	border-radius: 10px;
+	border: none;
+}
+
+.sign-up-btn {
+	margin-top: 8%;
+
+}
+
+body {
+	background-color: #f7f4ff;
+}
+
+.countCart {
+	font-size: 12px;
+    background: #ff0000;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+    border-radius: 20%;
+}
+
+.total-div {
+	padding: 3%;
+    background-color: #0030FF;
+    color: #FFF;
+}
+
+.card-cart-div {
+	margin: 2%;
+}
+
+.card-check-div {
+	padding: 3%;
+}
